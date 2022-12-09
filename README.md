@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Satyam Maddeshiya  
 - 👀 I’m interested in Web Dev(Frontend)
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me satyabirpur11@gmail.com
 
 <!---
